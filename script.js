@@ -12,6 +12,7 @@ hoofd.innerText = invoer.value + " is cool"
 } else{
 
 hoofd.innerText = "Invoer Text Display"
+  
 }
 
 }
